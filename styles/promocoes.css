@@ -1,0 +1,33 @@
+h2, h3{
+    text-align: center;
+    padding: 2%;
+}
+h2{
+    margin-bottom: 200px;
+}
+.promo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1%;
+}
+.promo-div{
+    border-style: solid;
+    border-color: black;
+    border-radius: 1px;
+    width: 100%;
+    padding: 1%;
+}
+.promo-div img{
+    max-width: 100%;
+}
+.main section{
+    height: 1500px !important;
+}
+.footer{
+    background-color:  #2574a9;
+    text-align: center;
+    height: auto;
+    padding: 1%;
+    color: white;
+}

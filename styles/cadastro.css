@@ -1,0 +1,10 @@
+.footer{
+    background-color:  #2574a9;
+    text-align: center;
+    height: auto;
+    padding: 1%;
+    color: white;
+}
+form div button{
+    width: 20%;
+}
